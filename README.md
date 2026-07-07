@@ -37,12 +37,6 @@
 https://www.doubao.com/thread/x8e063e920c6983f59bd9d4b16c38236c
 ```
 
-也支持直接粘贴 **thread ID**（以 `x` 开头的 ID）：
-
-```text
-x8e063e920c6983f59bd9d4b16c38236c
-```
-
 > 从豆包 App 或网页复制「分享对话 / 创作」链接，只要包含 `/thread/` 即可解析。
 
 ---
