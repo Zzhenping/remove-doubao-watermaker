@@ -31,13 +31,17 @@
 
 ## 支持的链接格式
 
-当前版本支持豆包 **`/thread/`** 形式的分享链接：
+当前版本支持豆包 **`/thread/`** **`/video-share/`** 形式的分享链接：
 
 ```text
 https://www.doubao.com/thread/x8e063e920c6983f59bd9d4b16c38236c
 ```
 
-> 从豆包 App 或网页复制「分享对话 / 创作」链接，只要包含 `/thread/` 即可解析。
+```text
+https://www.doubao.com/video-sharing?share_id=49457730940846850&source_type=mobile&video_id=v0369cg10004d96hjp2ljhtduejcifv0&share_scene=video_viewer
+```
+
+> 从豆包 App 或网页复制「分享对话 / 创作」链接。
 
 ---
 
